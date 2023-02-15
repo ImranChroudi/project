@@ -1,0 +1,15 @@
+
+copy con name.txt
+
+
+
+
+
+q
+git -v
+
+
+
+
+git -v
+ clear
